@@ -4,6 +4,6 @@
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
-    "HELLO": "Let us get started! %[How Daring Are You?](postback:daring) %[Roxette Lyrics](postback:rox-lyrics)",
+    "HELLO": "Boom! Let's get started! %[How Daring Are You?](postback:daring) %[No Quizzes, Just Roxette Lyrics](postback:rox-lyrics)",
     "ROXETTE LYRICS": "Let's join the joyride! %[Dangerous](postback:dangerous) %[Dressed For Success](postback:dressed-for-success) %[Joyride](postback:joyride) %[The Look](postback:the-look)"
 }
