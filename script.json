@@ -1,9 +1,12 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
-    "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back.",
+    "I LOVE YOU": "Aw, shucks! I love you, too!",
+    "CONNECT ME": "Yello...",
+    "DISCONNECT": "Roger that. Bye bye!",
     "HELLO": "Love the enthusiasm! Let's get started. %[How Daring Are You?](postback:daring) %[How Happy Are You?](postback:romantic) %[Roxette Lyrics](postback:rox-lyrics)",
-    "ROXETTE LYRICS": "Skip the quizzes and join the joyride! %[Dangerous](postback:dangerous) %[Dressed For Success](postback:dressed-for-success) %[Joyride](postback:joyride) %[The Look](postback:the-look)"
+    "ROXETTE LYRICS": "Skip the quizzes and join the joyride! %[Dangerous](postback:dangerous) %[Dressed For Success](postback:dressed-for-success) %[Joyride](postback:joyride) %[The Look](postback:the-look)",
+    "HOW DARING ARE YOU?": "Sorry, I'm a work in progress. No quiz yet. Can I interest you in Roxette Lyrics instead? %[Roxette Lyrics](postback:rox-lyrics)",
+    "HOW HAPPY ARE YOU?": "Sorry, I'm a work in progress. No quiz yet. Can I interest you in Roxette Lyrics instead? %[Roxette Lyrics](postback:rox-lyrics)",    
+    "DANGEROUS": "hi",
+    "JOYRIDE": "hi",     
+    "DRESSED FOR SUCCESS":  "hi"         
 }
