@@ -1,5 +1,5 @@
 {
-    "I LOVE YOU": "Aw, shucks! I love you, too!",
+    "I LOVE YOU": "No shadow of a doubt, I love you, too!",
     "CONNECT ME": "Yello...",
     "DISCONNECT": "Roger that. Bye bye!",
     "HELLO": "Love the enthusiasm! Let's get started. %[How Daring Are You?](postback:daring) %[How Happy Are You?](postback:romantic) %[Roxette Lyrics](postback:rox-lyrics)",
@@ -7,6 +7,6 @@
     "HOW DARING ARE YOU?": "Sorry, I'm a work in progress. No quiz yet. Can I interest you in Roxette Lyrics instead? %[Roxette Lyrics](postback:rox-lyrics)",
     "HOW HAPPY ARE YOU?": "Sorry, I'm a work in progress. No quiz yet. Can I interest you in Roxette Lyrics instead? %[Roxette Lyrics](postback:rox-lyrics)",    
     "DANGEROUS": "hi",
-    "JOYRIDE": "hi",     
+    "JOYRIDE": "I hit the road out of nowhere / I had to jump in my car / And be a rider in a love game / Following the stars / Don't need no book of wisdom, I get no money talk at all / She has a train going downtown / She's got a club on the moon / And she's telling all her secrets / In a wonderful balloon / She's the heart of the funfair / She's got me whistling her private tune / And it all begins where it ends / And she's all mine, my magic friend / She says: Hello, you fool, I love you, Come on join the joyride, Join the joyride",     
     "DRESSED FOR SUCCESS":  "hi"         
 }
