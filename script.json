@@ -3,7 +3,7 @@
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Roger that, EstherBot is back.",
     "HELLO": "Let us get started! %[How Daring Are You?](postback:daring) %[Roxette Lyrics](postback:rox-lyrics)",
-    "ROXETTE LYRICS": "Let's join the joyride! %[Dangerous](postback:dangerous) %[Dressed For Success](postback:dressed-for-success) %[Joyride](postback:joyride) %[The Look](postback:the-look)",    
+    "ROXETTE LYRICS": "Let's join the joyride! %[Dangerous](postback:dangerous) %[Dressed For Success](postback:dressed-for-success) %[Joyride](postback:joyride) %[The Look](postback:the-look)"
 }
