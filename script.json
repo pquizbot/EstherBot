@@ -5,10 +5,10 @@
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Aw, shucks! I love you too!",
     "CONNECT ME": "Connecting...",
-    "DISCONNECT": "The joyride continues."
-    "DANGEROUS": "The joyride continues."
-    "Dressed For Success": "The joyride continues."    
-    "The Look": "The joyride continues."    
+    "DISCONNECT": "The joyride continues.",
+    "DANGEROUS": "The joyride continues.",
+    "Dressed For Success": "The joyride continues."   , 
+    "The Look": "The joyride continues."    ,
     "JOYRIDE": "I hit the road out of nowhere 
 I had to jump in my car 
 And be a rider in a love game 
@@ -55,7 +55,7 @@ Who ROX you like a baby
 
 She says: Hello, you fool, I love you 
 Come on join the joyride 
-Join the joyride"
+Join the joyride",
     
     
     
